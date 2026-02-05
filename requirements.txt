@@ -1,8 +1,8 @@
 streamlit
 pandas
+pdfplumber
 pillow
 pytesseract
-pdfplumber
-opencv-python-headless
 python-dotenv
 groq
+opencv-python-headless
