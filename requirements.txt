@@ -1,7 +1,8 @@
 streamlit
-pytesseract
-pdf2image
-pillow
 pandas
-groq
+pillow
+pytesseract
+pdfplumber
+opencv-python-headless
 python-dotenv
+groq
